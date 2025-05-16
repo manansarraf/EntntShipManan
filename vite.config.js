@@ -21,5 +21,6 @@ export default defineConfig({
         '.js': 'jsx'
       }
     }
-  }
+  },
+  base:'/ship-maintenance-dashboard/',
 });
